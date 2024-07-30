@@ -95,7 +95,7 @@
     color: var(--cor-6);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
     .bicicleta {
         grid-template-columns: 1fr;
         padding-top: 40x;

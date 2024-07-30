@@ -1,6 +1,7 @@
 .bicicletas-lista {
     padding-top: 60px;
     padding-bottom: 120px;
+    
 }
 
 .bicicletas-lista h2 {
@@ -24,6 +25,7 @@
 .bicicletas-lista li {
     min-width: 280px;
     flex: 1;
+    
 }
 
 .bicicletas-lista a {
